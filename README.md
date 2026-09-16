@@ -13,11 +13,18 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+**Data Analyst | SQL | Power BI | Excel**
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I’m a **data-driven problem solver** passionate about transforming raw data into actionable insights.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I work with **SQL, PostgreSQL, Power BI, Excel, and Power Query** to analyze data, build dashboards, monitor KPIs, and uncover trends that support better business decisions. I’m particularly interested in **e-commerce analytics, data quality, process improvement, and automation**.
+
+Currently, I’m expanding my skills in **advanced SQL, data modeling, DAX, dbt, and modern analytics workflows** while building practical data projects from raw data to final dashboards.
+
+**Tech:** SQL · PostgreSQL · Power BI · DAX · Power Query · Excel · dbt  
+**Focus:** Data Analytics · Business Intelligence · KPI Reporting · Data Visualization · Data Quality
+
+**Languages:** Polish (Native) · English (C1) · Spanish (B2) · German (A1)
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
